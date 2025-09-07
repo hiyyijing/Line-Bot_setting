@@ -12,7 +12,8 @@
 
 2. 使用 LINE 帳號登入。
 
-📷 *（預留圖片位置：LINE Developers 首頁登入畫面）*
+<img src="https://github.com/user-attachments/assets/b2d0ccb6-8fe4-4aec-97dc-2ad3f6a9db00" alt="註冊LINE Developers帳號" width="500" />
+
 
 ---
 
@@ -22,16 +23,6 @@
 
 2. 在該 Provider 下建立 **Messaging API Channel**。
 
-📷 *（預留圖片位置：建立 Provider 和 Channel 畫面）*
-
----
-
-#### 3、 建立 LINE Messaging API Channel
-
-1. 前往 [LINE Developers](https://developers.line.biz/) 並登入。
-
-2. 建立一個 **Provider**（名稱可自訂，例如：「記帳Bot」）。
-
 3. 在該 Provider 下建立 **Messaging API Channel** ，並填入必要資訊：
 
    * 帳號名稱：自訂（例如：「記帳Bot」）
@@ -39,11 +30,13 @@
    * 公司所在國家或地區：台灣
    * 業種：銀行、保險、金融 銀行、保險、金融（其他）
 
-📷 *（預留圖片位置：建立 Messaging API Channel 詳細畫面）*
+<img src="https://github.com/user-attachments/assets/48babfef-f08b-44a0-9786-626f9462d846" alt="建立 Provider" width="500" /> <img src="https://github.com/user-attachments/assets/c27c904e-7d3f-49b5-b892-68588dc3b72a" alt="Provider_linebot" width="500" />
+<img src="https://github.com/user-attachments/assets/9b71e0a2-0b34-4f8c-a71b-f59d4b789697" alt="messaging api" width="500" /> <img src="https://github.com/user-attachments/assets/d9349bef-7257-424d-9003-d6ac70e7c7f2" alt="messaging" width="500" /> <img src="https://github.com/user-attachments/assets/16c98931-58bf-4657-b556-e6b552c6a4b8" alt="messaging info" width="500" /> <img src="https://github.com/user-attachments/assets/1e47f858-15c3-49a5-b562-1758e20cecb0" alt="messaging" width="200" />
+
 
 ---
 
-#### 4、 記帳Bot 帳號設定
+#### 3、 記帳Bot 帳號設定
 
 1. 進入 Channel 主頁，點選右上角「設定」。
 
@@ -67,11 +60,12 @@
 
    * ✅ 手動聊天 + 自動回應訊息
 
-📷 *（預留圖片位置：回應設定與訊息編輯畫面）*
+<img src="https://github.com/user-attachments/assets/b6cfb7cc-37ae-43a7-9b7b-302ce32c8abd" alt="Bot設定" width="500" /> <img src="https://github.com/user-attachments/assets/f22b264d-d30a-4ac4-a28b-30446cf1f519" alt="回應設定中" width="500" /> <img src="https://github.com/user-attachments/assets/5c1d3309-8fb6-4078-9494-a12f8850ba9b" alt="歡迎訊息" width="500" /> <img src="https://github.com/user-attachments/assets/888224a6-0744-4813-9ada-cda87456931a" alt="回應方式" width="500" /> 
+
 
 ---
 
-#### 5、 啟用 Messaging API
+#### 4、 啟用 Messaging API
 
 1. 在「設定」下， 點選下方「Messaging API」。
 
@@ -81,11 +75,12 @@
 
 4. 記下 **Channel Secret**（之後會用到）。
 
-📷 *（預留圖片位置：啟用 Messaging API 流程）*
+<img src="https://github.com/user-attachments/assets/0fd4a846-43fc-4af3-85cf-61471fe14b9b" alt="啟用 Messaging API" width="500" /> <img src="https://github.com/user-attachments/assets/7b76c79b-3b4f-4783-b261-85fe34e09e01" alt="Channel Secret" width="500" /> 
+
 
 ---
 
-#### 6、 取得 Channel API 資訊（‼️很重要）
+#### 5、 取得 Channel API 資訊（‼️很重要）
 
 1. 前往 LINE Developers Console，進入「記帳Bot」的 Channel 頁面。
 
@@ -98,6 +93,7 @@
    * → Channel Secret
    * → Channel Access Token
 
+<img src="https://github.com/user-attachments/assets/4de017a5-bb99-4009-b2d8-2716e5d3d163" alt="Channel Access Token" width="200" /> 
  <img src="https://github.com/user-attachments/assets/2f0a364a-d8e2-45e0-8498-3c3de23cef05" alt="LINE Developers Channel 設定畫面" width="500" /> <img src="https://github.com/user-attachments/assets/c83269e3-a574-4746-956b-283f0270fe91" alt="LINE Developers Channel 設定畫面" width="500" />
 
 ---
