@@ -137,10 +137,10 @@
 
    * 輸入自訂分類，範例分類如下：
 
-     1. 飲食
-     2. 交通
-     3. 購物
-     4. ...
+     1 飲食
+     2 交通
+     3 購物
+     4 ...
 
 <img src="https://github.com/user-attachments/assets/4abbc790-d849-4a1f-9ffe-5837cea4494a" alt="工作表1" width="700" /> <br><br> 
 <img src="https://github.com/user-attachments/assets/349de250-6f73-4383-96cd-d93f339160fa" alt="工作表2" width="700" /> <br><br>
@@ -193,10 +193,11 @@
 
 
 ---
-
+ <br><br> 
 
 ## 💬 你已完成所有前置作業，接下來可以開始實作階段：正式啟動 LINE Bot！
 
+ <br><br> 
 ---
 
 ## 🤖 指令（在 LINE 傳訊給你的 Bot）
@@ -222,7 +223,7 @@
 | `重設代碼`      | 刪除所有紀錄資料                       |
 
 
-
+ <br><br> 
 <img src="https://github.com/user-attachments/assets/d6977ddd-9a86-4bfc-8ad0-0add1ea9b308" alt="指令" width="850" /> 
 
 
