@@ -1,4 +1,4 @@
-# 📒 LINE Bot 記帳教學 - DAY2
+# 📒 DAY2 - 從零開始理財 Bot ！
 
 ---
 
