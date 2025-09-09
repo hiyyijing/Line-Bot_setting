@@ -30,11 +30,11 @@
    * 公司所在國家或地區：台灣
    * 業種：銀行、保險、金融 銀行、保險、金融（其他）
 
-<img src="https://github.com/user-attachments/assets/48babfef-f08b-44a0-9786-626f9462d846" alt="建立 Provider" width="900" /> <img src="https://github.com/user-attachments/assets/c27c904e-7d3f-49b5-b892-68588dc3b72a" alt="Provider_linebot" width="300" /> <br><br>
+<img src="https://github.com/user-attachments/assets/48babfef-f08b-44a0-9786-626f9462d846" alt="建立 Provider" width="900" /> <img src="https://github.com/user-attachments/assets/c27c904e-7d3f-49b5-b892-68588dc3b72a" alt="Provider_linebot" width="900" /> <br><br>
 <img src="https://github.com/user-attachments/assets/9b71e0a2-0b34-4f8c-a71b-f59d4b789697" alt="messaging api" width="900" /> <br><br>
 <img src="https://github.com/user-attachments/assets/d9349bef-7257-424d-9003-d6ac70e7c7f2" alt="messaging" width="900" /> <br><br>
-<img src="https://github.com/user-attachments/assets/16c98931-58bf-4657-b556-e6b552c6a4b8" alt="messaging info" width="400" />  <br><br>
-<img src="https://github.com/user-attachments/assets/1e47f858-15c3-49a5-b562-1758e20cecb0" alt="messaging" width="200" /> 
+<img src="https://github.com/user-attachments/assets/16c98931-58bf-4657-b556-e6b552c6a4b8" alt="messaging info" width="700" />  <br><br>
+<img src="https://github.com/user-attachments/assets/1e47f858-15c3-49a5-b562-1758e20cecb0" alt="messaging" width="500" /> 
 
 
 ---
@@ -100,7 +100,7 @@
    * → Channel Secret
    * → Channel Access Token
 
-<img src="https://github.com/user-attachments/assets/4de017a5-bb99-4009-b2d8-2716e5d3d163" alt="Channel Access Token" width="200" /> <br><br>
+<img src="https://github.com/user-attachments/assets/4de017a5-bb99-4009-b2d8-2716e5d3d163" alt="Channel Access Token" width="500" /> <br><br>
  <img src="https://github.com/user-attachments/assets/2f0a364a-d8e2-45e0-8498-3c3de23cef05" alt="LINE Developers Channel 設定畫面" width="900" /> <img src="https://github.com/user-attachments/assets/c83269e3-a574-4746-956b-283f0270fe91" alt="LINE Developers Channel 設定畫面" width="900" />
 
 ---
