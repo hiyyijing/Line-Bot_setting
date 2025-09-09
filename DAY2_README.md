@@ -34,7 +34,7 @@
 <img src="https://github.com/user-attachments/assets/9b71e0a2-0b34-4f8c-a71b-f59d4b789697" alt="messaging api" width="900" /> <br><br>
 <img src="https://github.com/user-attachments/assets/d9349bef-7257-424d-9003-d6ac70e7c7f2" alt="messaging" width="900" /> <br><br>
 <img src="https://github.com/user-attachments/assets/16c98931-58bf-4657-b556-e6b552c6a4b8" alt="messaging info" width="900" />  <br><br>
-<img src="https://github.com/user-attachments/assets/1e47f858-15c3-49a5-b562-1758e20cecb0" alt="messaging" width="500" /> 
+<img src="https://github.com/user-attachments/assets/1e47f858-15c3-49a5-b562-1758e20cecb0" alt="messaging" width="450" /> 
 
 
 ---
@@ -186,7 +186,7 @@
 <img src="https://github.com/user-attachments/assets/071e615c-2734-436a-94ea-7422a6da963f" alt="服務帳戶" width="900" /> <br><br> 
 <img src="https://github.com/user-attachments/assets/f5f90eaf-d358-4902-b7ef-6eebb7f24ab8" alt="建立服務帳戶" width="900" /> <br><br> 
 <img src="https://github.com/user-attachments/assets/1eb90760-26e2-41fb-aa86-115ee3e33b5d" alt="建立新的金鑰" width="900" /> 
-<img src="https://github.com/user-attachments/assets/e24ef591-b58d-4487-8f60-5c13ccdd1da8" alt="linebot.json" width="300" /> <br><br> 
+<img src="https://github.com/user-attachments/assets/e24ef591-b58d-4487-8f60-5c13ccdd1da8" alt="linebot.json" width="450" /> <br><br> 
 <img src="https://github.com/user-attachments/assets/179d0d37-b1b7-482b-9be3-6a87c2eb5558" alt="詳細資訊中的電子郵件" width="900" /> <br><br> 
 <img src="https://github.com/user-attachments/assets/408ab0d7-ed3b-4497-b4d5-63358a500285" alt="共用權限" width="900" /> <br><br> 
 <img src="https://github.com/user-attachments/assets/0355f204-6e80-4168-904f-9139723ea050" alt="API 程式庫" width="900" /> 
