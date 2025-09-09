@@ -12,7 +12,7 @@
 
 2. 使用 LINE 帳號登入。
 
-<img src="https://github.com/user-attachments/assets/b2d0ccb6-8fe4-4aec-97dc-2ad3f6a9db00" alt="註冊LINE Developers帳號" width="500" />
+<img src="https://github.com/user-attachments/assets/b2d0ccb6-8fe4-4aec-97dc-2ad3f6a9db00" alt="註冊LINE Developers帳號" width="700" />
 
 
 ---
@@ -30,9 +30,9 @@
    * 公司所在國家或地區：台灣
    * 業種：銀行、保險、金融 銀行、保險、金融（其他）
 
-<img src="https://github.com/user-attachments/assets/48babfef-f08b-44a0-9786-626f9462d846" alt="建立 Provider" width="500" /> <img src="https://github.com/user-attachments/assets/c27c904e-7d3f-49b5-b892-68588dc3b72a" alt="Provider_linebot" width="300" /> <br><br>
-<img src="https://github.com/user-attachments/assets/9b71e0a2-0b34-4f8c-a71b-f59d4b789697" alt="messaging api" width="500" /> <br><br>
-<img src="https://github.com/user-attachments/assets/d9349bef-7257-424d-9003-d6ac70e7c7f2" alt="messaging" width="500" /> <br><br>
+<img src="https://github.com/user-attachments/assets/48babfef-f08b-44a0-9786-626f9462d846" alt="建立 Provider" width="700" /> <img src="https://github.com/user-attachments/assets/c27c904e-7d3f-49b5-b892-68588dc3b72a" alt="Provider_linebot" width="300" /> <br><br>
+<img src="https://github.com/user-attachments/assets/9b71e0a2-0b34-4f8c-a71b-f59d4b789697" alt="messaging api" width="700" /> <br><br>
+<img src="https://github.com/user-attachments/assets/d9349bef-7257-424d-9003-d6ac70e7c7f2" alt="messaging" width="700" /> <br><br>
 <img src="https://github.com/user-attachments/assets/16c98931-58bf-4657-b556-e6b552c6a4b8" alt="messaging info" width="400" />  <br><br>
 <img src="https://github.com/user-attachments/assets/1e47f858-15c3-49a5-b562-1758e20cecb0" alt="messaging" width="200" /> 
 
@@ -63,10 +63,10 @@
 
    * ✅ 手動聊天 + 自動回應訊息
 
-<img src="https://github.com/user-attachments/assets/b6cfb7cc-37ae-43a7-9b7b-302ce32c8abd" alt="Bot設定" width="500" /> <br><br>
-<img src="https://github.com/user-attachments/assets/f22b264d-d30a-4ac4-a28b-30446cf1f519" alt="回應設定中" width="500" /> <br><br>
-<img src="https://github.com/user-attachments/assets/5c1d3309-8fb6-4078-9494-a12f8850ba9b" alt="歡迎訊息" width="500" /> <br><br>
-<img src="https://github.com/user-attachments/assets/888224a6-0744-4813-9ada-cda87456931a" alt="回應方式" width="500" /> 
+<img src="https://github.com/user-attachments/assets/b6cfb7cc-37ae-43a7-9b7b-302ce32c8abd" alt="Bot設定" width="700" /> <br><br>
+<img src="https://github.com/user-attachments/assets/f22b264d-d30a-4ac4-a28b-30446cf1f519" alt="回應設定中" width="700" /> <br><br>
+<img src="https://github.com/user-attachments/assets/5c1d3309-8fb6-4078-9494-a12f8850ba9b" alt="歡迎訊息" width="700" /> <br><br>
+<img src="https://github.com/user-attachments/assets/888224a6-0744-4813-9ada-cda87456931a" alt="回應方式" width="700" /> 
 
 
 ---
